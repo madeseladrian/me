@@ -29,7 +29,7 @@ class MyHomePage extends StatelessWidget {
     return const Scaffold(
       body: Center(
         child: Text(
-          'Mades.me',
+          'mades.dev',
           style: TextStyle(fontSize: 24),
         ),
       ),
